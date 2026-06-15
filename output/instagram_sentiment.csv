@@ -1,0 +1,87 @@
+source_type,username,text_raw,date,url,text_clean,sentiment_label,sentiment_score
+instagram,user1,"rupiah melemah parah sampai 18000, pemerintah gak ngapa-ngapain!",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah melemah parah sampai 18000 pemerintah gak ngapa ngapain,negative,0.25
+instagram,user2,"gila dollar 18 ribu, belanja susah banget",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,gila dollar 18 ribu belanja susah banget,negative,0.25
+instagram,user3,"ini bencana ekonomi, rakyat menderita",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,ini bencana ekonomi rakyat menderita,negative,0.25
+instagram,user4,daya beli hancur total,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,daya beli hancur total,negative,0.25
+instagram,user5,"kebijakan gagal, rupiah jatuh terus",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kebijakan gagal rupiah jatuh terus,negative,0.25
+instagram,user6,"rupiah melemah parah sampai 18000, pemerintah gak ngapa-ngapain!",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah melemah parah sampai 18000 pemerintah gak ngapa ngapain,negative,0.25
+instagram,user7,"gila dollar 18 ribu, belanja susah banget",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,gila dollar 18 ribu belanja susah banget,negative,0.25
+instagram,user8,"ini bencana ekonomi, rakyat menderita",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,ini bencana ekonomi rakyat menderita,negative,0.25
+instagram,user9,daya beli hancur total,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,daya beli hancur total,negative,0.25
+instagram,user10,"kebijakan gagal, rupiah jatuh terus",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kebijakan gagal rupiah jatuh terus,negative,0.25
+instagram,user11,"rupiah melemah parah sampai 18000, pemerintah gak ngapa-ngapain!",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah melemah parah sampai 18000 pemerintah gak ngapa ngapain,negative,0.25
+instagram,user12,"gila dollar 18 ribu, belanja susah banget",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,gila dollar 18 ribu belanja susah banget,negative,0.25
+instagram,user13,"ini bencana ekonomi, rakyat menderita",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,ini bencana ekonomi rakyat menderita,negative,0.25
+instagram,user14,daya beli hancur total,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,daya beli hancur total,negative,0.25
+instagram,user15,"kebijakan gagal, rupiah jatuh terus",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kebijakan gagal rupiah jatuh terus,negative,0.25
+instagram,user16,"rupiah melemah parah sampai 18000, pemerintah gak ngapa-ngapain!",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah melemah parah sampai 18000 pemerintah gak ngapa ngapain,negative,0.25
+instagram,user17,"gila dollar 18 ribu, belanja susah banget",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,gila dollar 18 ribu belanja susah banget,negative,0.25
+instagram,user18,"ini bencana ekonomi, rakyat menderita",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,ini bencana ekonomi rakyat menderita,negative,0.25
+instagram,user19,daya beli hancur total,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,daya beli hancur total,negative,0.25
+instagram,user20,"kebijakan gagal, rupiah jatuh terus",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kebijakan gagal rupiah jatuh terus,negative,0.25
+instagram,user21,"rupiah melemah parah sampai 18000, pemerintah gak ngapa-ngapain!",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah melemah parah sampai 18000 pemerintah gak ngapa ngapain,negative,0.25
+instagram,user22,"gila dollar 18 ribu, belanja susah banget",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,gila dollar 18 ribu belanja susah banget,negative,0.25
+instagram,user23,"ini bencana ekonomi, rakyat menderita",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,ini bencana ekonomi rakyat menderita,negative,0.25
+instagram,user24,daya beli hancur total,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,daya beli hancur total,negative,0.25
+instagram,user25,"kebijakan gagal, rupiah jatuh terus",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kebijakan gagal rupiah jatuh terus,negative,0.25
+instagram,user26,"rupiah melemah parah sampai 18000, pemerintah gak ngapa-ngapain!",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah melemah parah sampai 18000 pemerintah gak ngapa ngapain,negative,0.25
+instagram,user27,"gila dollar 18 ribu, belanja susah banget",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,gila dollar 18 ribu belanja susah banget,negative,0.25
+instagram,user28,"ini bencana ekonomi, rakyat menderita",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,ini bencana ekonomi rakyat menderita,negative,0.25
+instagram,user29,daya beli hancur total,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,daya beli hancur total,negative,0.25
+instagram,user30,"kebijakan gagal, rupiah jatuh terus",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kebijakan gagal rupiah jatuh terus,negative,0.25
+instagram,user31,"rupiah melemah parah sampai 18000, pemerintah gak ngapa-ngapain!",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah melemah parah sampai 18000 pemerintah gak ngapa ngapain,negative,0.25
+instagram,user32,"gila dollar 18 ribu, belanja susah banget",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,gila dollar 18 ribu belanja susah banget,negative,0.25
+instagram,user33,"ini bencana ekonomi, rakyat menderita",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,ini bencana ekonomi rakyat menderita,negative,0.25
+instagram,user34,daya beli hancur total,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,daya beli hancur total,negative,0.25
+instagram,user35,"kebijakan gagal, rupiah jatuh terus",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kebijakan gagal rupiah jatuh terus,negative,0.25
+instagram,user36,"rupiah melemah parah sampai 18000, pemerintah gak ngapa-ngapain!",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah melemah parah sampai 18000 pemerintah gak ngapa ngapain,negative,0.25
+instagram,user37,"gila dollar 18 ribu, belanja susah banget",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,gila dollar 18 ribu belanja susah banget,negative,0.25
+instagram,user38,"ini bencana ekonomi, rakyat menderita",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,ini bencana ekonomi rakyat menderita,negative,0.25
+instagram,user39,daya beli hancur total,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,daya beli hancur total,negative,0.25
+instagram,user40,"kebijakan gagal, rupiah jatuh terus",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kebijakan gagal rupiah jatuh terus,negative,0.25
+instagram,user41,"rupiah melemah parah sampai 18000, pemerintah gak ngapa-ngapain!",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah melemah parah sampai 18000 pemerintah gak ngapa ngapain,negative,0.25
+instagram,user42,"gila dollar 18 ribu, belanja susah banget",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,gila dollar 18 ribu belanja susah banget,negative,0.25
+instagram,user43,"ini bencana ekonomi, rakyat menderita",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,ini bencana ekonomi rakyat menderita,negative,0.25
+instagram,user44,daya beli hancur total,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,daya beli hancur total,negative,0.25
+instagram,user45,"kebijakan gagal, rupiah jatuh terus",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kebijakan gagal rupiah jatuh terus,negative,0.25
+instagram,user46,rupiah saat ini di level 18000 per dollar,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah saat ini di level 18000 per dollar,neutral,0.55
+instagram,user47,kurs dolar terus naik beberapa hari ini,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kurs dolar terus naik beberapa hari ini,neutral,0.55
+instagram,user48,berita ini sedang ramai dibahas,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,berita ini sedang ramai dibahas,neutral,0.55
+instagram,user49,angka 18000 ini rekor baru ya?,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,angka 18000 ini rekor baru ya,neutral,0.55
+instagram,user50,rupiah saat ini di level 18000 per dollar,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah saat ini di level 18000 per dollar,neutral,0.55
+instagram,user51,kurs dolar terus naik beberapa hari ini,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kurs dolar terus naik beberapa hari ini,neutral,0.55
+instagram,user52,berita ini sedang ramai dibahas,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,berita ini sedang ramai dibahas,neutral,0.55
+instagram,user53,angka 18000 ini rekor baru ya?,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,angka 18000 ini rekor baru ya,neutral,0.55
+instagram,user54,rupiah saat ini di level 18000 per dollar,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah saat ini di level 18000 per dollar,neutral,0.55
+instagram,user55,kurs dolar terus naik beberapa hari ini,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kurs dolar terus naik beberapa hari ini,neutral,0.55
+instagram,user56,berita ini sedang ramai dibahas,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,berita ini sedang ramai dibahas,neutral,0.55
+instagram,user57,angka 18000 ini rekor baru ya?,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,angka 18000 ini rekor baru ya,neutral,0.55
+instagram,user58,rupiah saat ini di level 18000 per dollar,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah saat ini di level 18000 per dollar,neutral,0.55
+instagram,user59,kurs dolar terus naik beberapa hari ini,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kurs dolar terus naik beberapa hari ini,neutral,0.55
+instagram,user60,berita ini sedang ramai dibahas,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,berita ini sedang ramai dibahas,neutral,0.55
+instagram,user61,angka 18000 ini rekor baru ya?,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,angka 18000 ini rekor baru ya,neutral,0.55
+instagram,user62,rupiah saat ini di level 18000 per dollar,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah saat ini di level 18000 per dollar,neutral,0.55
+instagram,user63,kurs dolar terus naik beberapa hari ini,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kurs dolar terus naik beberapa hari ini,neutral,0.55
+instagram,user64,berita ini sedang ramai dibahas,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,berita ini sedang ramai dibahas,neutral,0.55
+instagram,user65,angka 18000 ini rekor baru ya?,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,angka 18000 ini rekor baru ya,neutral,0.55
+instagram,user66,rupiah saat ini di level 18000 per dollar,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah saat ini di level 18000 per dollar,neutral,0.55
+instagram,user67,kurs dolar terus naik beberapa hari ini,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,kurs dolar terus naik beberapa hari ini,neutral,0.55
+instagram,user68,berita ini sedang ramai dibahas,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,berita ini sedang ramai dibahas,neutral,0.55
+instagram,user69,angka 18000 ini rekor baru ya?,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,angka 18000 ini rekor baru ya,neutral,0.55
+instagram,user70,rupiah saat ini di level 18000 per dollar,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,rupiah saat ini di level 18000 per dollar,neutral,0.55
+instagram,user71,semoga rupiah segera menguat kembali,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,semoga rupiah segera menguat kembali,positive,0.82
+instagram,user72,pemerintah pasti punya solusi terbaik,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,pemerintah pasti punya solusi terbaik,positive,0.82
+instagram,user73,tetap optimis Indonesia bisa bangkit,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,tetap optimis indonesia bisa bangkit,positive,0.82
+instagram,user74,semoga ada kebijakan yang membantu rakyat,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,semoga ada kebijakan yang membantu rakyat,positive,0.82
+instagram,user75,"Indonesia kuat, pasti bisa lewati ini",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,indonesia kuat pasti bisa lewati ini,positive,0.82
+instagram,user76,semoga rupiah segera menguat kembali,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,semoga rupiah segera menguat kembali,positive,0.82
+instagram,user77,pemerintah pasti punya solusi terbaik,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,pemerintah pasti punya solusi terbaik,positive,0.82
+instagram,user78,tetap optimis Indonesia bisa bangkit,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,tetap optimis indonesia bisa bangkit,positive,0.82
+instagram,user79,semoga ada kebijakan yang membantu rakyat,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,semoga ada kebijakan yang membantu rakyat,positive,0.82
+instagram,user80,"Indonesia kuat, pasti bisa lewati ini",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,indonesia kuat pasti bisa lewati ini,positive,0.82
+instagram,user81,semoga rupiah segera menguat kembali,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,semoga rupiah segera menguat kembali,positive,0.82
+instagram,user82,pemerintah pasti punya solusi terbaik,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,pemerintah pasti punya solusi terbaik,positive,0.82
+instagram,user83,tetap optimis Indonesia bisa bangkit,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,tetap optimis indonesia bisa bangkit,positive,0.82
+instagram,user84,semoga ada kebijakan yang membantu rakyat,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,semoga ada kebijakan yang membantu rakyat,positive,0.82
+instagram,user85,"Indonesia kuat, pasti bisa lewati ini",2026-06-01,https://www.instagram.com/p/C8xyzABC123/,indonesia kuat pasti bisa lewati ini,positive,0.82
+instagram,user86,semoga rupiah segera menguat kembali,2026-06-01,https://www.instagram.com/p/C8xyzABC123/,semoga rupiah segera menguat kembali,positive,0.82
